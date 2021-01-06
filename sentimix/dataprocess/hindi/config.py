@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/8 21:36
-# @Author  : David
-# @email   : mingren4792@126.com
-# @File    : config.py
+
 
 LOGOGRAM = {
     'talak': 'talk',
